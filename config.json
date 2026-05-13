@@ -1,0 +1,15 @@
+{
+  "phpmyadmin_url": "https://intranets.51ct.eb.mil.br/phpmyadmin/",
+  "username": "19bc",
+   "password": "BN60I\\z~@19$",
+
+  "database": "blocksisbol",
+
+  "table": "19bc",
+  "ip_column": "ip",
+  "where_column": "hostname",
+  "where_value": "__HOSTNAME__",
+
+  "headless": true,
+  "browser": "chrome"
+}
